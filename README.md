@@ -53,35 +53,45 @@ Customer:
 4.	Past test-drives: A brief description of previously booked and successfully conducted test-drives by customer is also visible.
 
 Er diagram 
+![image](https://user-images.githubusercontent.com/82774150/220444273-fbbe628a-b6e7-445a-b0a8-fcd41442c4eb.png)
+
 
 
 Schema (Description of MySQL Tables)
 1.	Login:
+	![image](https://user-images.githubusercontent.com/82774150/220444332-5af440d8-8857-435b-86cf-b1762ca42c69.png)
+
 
 2.	customerdetails:
 
- 
+ ![image](https://user-images.githubusercontent.com/82774150/220444379-3f2594a9-9ba1-49b6-ace2-36c7003278b4.png)
+
 
 3.	testdrive:
- 
+ ![image](https://user-images.githubusercontent.com/82774150/220444420-a061a96b-12a4-47c0-81c1-6e5f4ed59b1a.png)
+
 
 4.	legacytestdrive:
 
+![image](https://user-images.githubusercontent.com/82774150/220444447-9d761b32-c1d5-44af-9f63-237c3d5efe89.png)
  
 
 
 
 5.	vehicle:
 
- 
+ ![image](https://user-images.githubusercontent.com/82774150/220444462-83f7c016-37e5-4cc6-ae25-b37ce4f53f20.png)
+
 
 6.	executive:
 
+![image](https://user-images.githubusercontent.com/82774150/220444488-b9a12574-3b92-43bf-a75c-8ef58f70abf3.png)
  
 
 7.	exesch :
 
  
+![image](https://user-images.githubusercontent.com/82774150/220444515-12621bf3-54a6-436a-a41f-7f2c9bc4a63b.png)
 
 
 
@@ -93,6 +103,7 @@ Schema (Description of MySQL Tables)
 8.	vehsch :
 
  
+![image](https://user-images.githubusercontent.com/82774150/220444541-a699a358-9ca0-4093-95f2-1e1bc8c8a6d3.png)
 
 
 
@@ -101,6 +112,7 @@ OUTPUT SCREENSHOTS:
 1.	LOGIN PAGE FOR USER AND ADMIN
 
  
+![image](https://user-images.githubusercontent.com/82774150/220444559-2c3a45c6-4d59-4a7f-a3df-78a3103a2499.png)
 
 
 
@@ -110,10 +122,12 @@ OUTPUT SCREENSHOTS:
 
 2.	USER REGISTRARTION
 
- 
+ ![image](https://user-images.githubusercontent.com/82774150/220444592-b748348e-5dae-496e-ac9c-ee15fc67bae4.png)
+
 
 3.	CUSTOMER-HOME
 
+![image](https://user-images.githubusercontent.com/82774150/220444609-92ec7952-cb00-483e-b524-471f61983353.png)
 
  
 
@@ -126,61 +140,43 @@ OUTPUT SCREENSHOTS:
 
 4.	CUSTOMER DASHBOARD- TRACK ACTIVE TEST-DRIVE
 
-
-
+![image](https://user-images.githubusercontent.com/82774150/220444668-59087236-a7e6-4e69-9e59-3755c54f32e7.png)
 
 
 
 
 5.	CUSTOMER DASHBOARD – PAST-TESTDRIVE
 
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/82774150/220444692-e647616a-2e4b-4922-be28-13a9b078d076.png)
 
 6.	MANAGER HOME 
+![image](https://user-images.githubusercontent.com/82774150/220444732-cc246b3d-a25d-4f7b-bce3-e909eb241bef.png)
  
 
 7.	MANAGER DASHBOARD – VEHICLE AVAILABILITY
 
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/82774150/220444751-ffe001f4-d450-44cb-b71c-2067375f0052.png)
 
 8.	MANAGER DASHBOARD – EXECUTIVE AVAILABILITY
+![image](https://user-images.githubusercontent.com/82774150/220444796-f2c20283-fd8f-4659-9523-b6c39502d724.png)
 
  
 9.	MANAGER PENDING TEST-DRIVE
-
-
-
+![image](https://user-images.githubusercontent.com/82774150/220444818-75fda089-8ad5-4b35-a095-2a44fe51e646.png)
 
 
 10.	MANAGER DASHBOARD – TESTDRIVE
+![image](https://user-images.githubusercontent.com/82774150/220444861-ebb0bb7f-8721-4106-925b-d3a75b916a36.png)
 
  
 
 11.	MANAGE EXECUTIVES
-
- 
-
-
+![image](https://user-images.githubusercontent.com/82774150/220444895-bd63d485-819e-49b8-aecd-d4cabab9d47b.png)
 
 
 12.	MANAGER VEHICLES
+![image](https://user-images.githubusercontent.com/82774150/220444927-341d93d4-5f37-4e25-bbe1-3504784b3db3.png)
 
- 
 
 FUTURE SCOPE:
 7.	Feedback feature for the customers can be introduced in the system.
