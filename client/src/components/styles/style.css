@@ -1,0 +1,71 @@
+.button {
+    background-color: #003e53; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 30px 1px;
+    cursor: pointer;
+    font-size: 18px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+  }
+.button2:hover {
+        box-shadow: 0 12px 16px 0 rgba(28, 1, 96, 0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+      }
+
+.profile{
+    
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}      
+
+.info {
+    display: flex;
+    border: 2px solid #002c7e;
+    border-radius: 20px;
+    width: 300px;
+    height: 100px;
+    margin: 0 auto;
+    padding: 2rem 2rem;
+    
+    
+  }
+
+  .abc
+  {
+    text-align: left;
+  }
+
+  .xyz
+  {
+    text-align: left;
+  }
+  
+  .child {
+    display: inline-block;
+    align-items: center;
+    
+    padding: 1rem 1rem;
+    vertical-align: middle;
+  }
+  
+  .head{
+    text-align: center;
+    background-color: #003e53;
+    color: aliceblue;
+    height: 30px;
+    vertical-align: middle;  
+  }
+
+  .book{
+    background-color:aliceblue;
+    height:400px;
+    font-size: 18px;
+  }
+
+  
