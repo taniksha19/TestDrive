@@ -59,16 +59,16 @@ Er diagram
 
 Schema (Description of MySQL Tables)
 1.	Login:
-	![image](https://user-images.githubusercontent.com/82774150/220444332-5af440d8-8857-435b-86cf-b1762ca42c69.png)
+![image](https://user-images.githubusercontent.com/82774150/220444332-5af440d8-8857-435b-86cf-b1762ca42c69.png)
 
 
 2.	customerdetails:
 
- ![image](https://user-images.githubusercontent.com/82774150/220444379-3f2594a9-9ba1-49b6-ace2-36c7003278b4.png)
+![image](https://user-images.githubusercontent.com/82774150/220444379-3f2594a9-9ba1-49b6-ace2-36c7003278b4.png)
 
 
 3.	testdrive:
- ![image](https://user-images.githubusercontent.com/82774150/220444420-a061a96b-12a4-47c0-81c1-6e5f4ed59b1a.png)
+![image](https://user-images.githubusercontent.com/82774150/220444420-a061a96b-12a4-47c0-81c1-6e5f4ed59b1a.png)
 
 
 4.	legacytestdrive:
@@ -76,10 +76,7 @@ Schema (Description of MySQL Tables)
 ![image](https://user-images.githubusercontent.com/82774150/220444447-9d761b32-c1d5-44af-9f63-237c3d5efe89.png)
  
 
-
-
 5.	vehicle:
-
  ![image](https://user-images.githubusercontent.com/82774150/220444462-83f7c016-37e5-4cc6-ae25-b37ce4f53f20.png)
 
 
@@ -93,32 +90,16 @@ Schema (Description of MySQL Tables)
  
 ![image](https://user-images.githubusercontent.com/82774150/220444515-12621bf3-54a6-436a-a41f-7f2c9bc4a63b.png)
 
-
-
-
-
-
-
-
 8.	vehsch :
 
  
 ![image](https://user-images.githubusercontent.com/82774150/220444541-a699a358-9ca0-4093-95f2-1e1bc8c8a6d3.png)
-
-
-
 
 OUTPUT SCREENSHOTS:
 1.	LOGIN PAGE FOR USER AND ADMIN
 
  
 ![image](https://user-images.githubusercontent.com/82774150/220444559-2c3a45c6-4d59-4a7f-a3df-78a3103a2499.png)
-
-
-
-
-
-
 
 2.	USER REGISTRARTION
 
@@ -129,21 +110,11 @@ OUTPUT SCREENSHOTS:
 
 ![image](https://user-images.githubusercontent.com/82774150/220444609-92ec7952-cb00-483e-b524-471f61983353.png)
 
- 
-
-
-
-
-
-
 
 
 4.	CUSTOMER DASHBOARD- TRACK ACTIVE TEST-DRIVE
 
 ![image](https://user-images.githubusercontent.com/82774150/220444668-59087236-a7e6-4e69-9e59-3755c54f32e7.png)
-
-
-
 
 5.	CUSTOMER DASHBOARD – PAST-TESTDRIVE
 
